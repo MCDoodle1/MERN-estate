@@ -16,4 +16,5 @@ Instructions:
 Dependencies:
 Vite :
 Tailwind :
-React-router-dom:
+React Router: npm i react-router-dom
+React Icons: npm i react-icons
