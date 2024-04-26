@@ -12,13 +12,20 @@ Instructions:
 1. Create React App using Vite and install Tailwind - Delete unnecessary files
 2. Create pages, install react-router-dom and add routes to pages in App.js
 3. Create Header
-4. Create Backend
+4. Create and run the server: create dir api and file index.js, change package.json scripts
+5. Connect to database. Create database in MongoDB and add connection string to index.js file.
+   Import dotenv to use a env variable in index.js
+6. Create Users Model: api/models/user.model.js
+7. Create API route in 3 files: index.js, api/routes/user.route.js and api/controllers/user. controller.js
 
 Dependencies:
-Vite :
-Tailwind :
-React Router: npm i react-router-dom
-React Icons: npm i react-icons
-package.json: npm init -y
-express: npm i express
-nodemon: npm i nodemon
+
+1. Vite :
+   Tailwind :
+2. React Router: npm i react-router-dom
+3. React Icons: npm i react-icons
+4. package.json: npm init -y
+   express: npm i express
+   nodemon: npm i nodemon
+5. mongoDB: npm i mongoose
+   dotenv: npm i dotenv
