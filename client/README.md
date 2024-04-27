@@ -16,7 +16,8 @@ Instructions:
 5. Connect to database. Create database in MongoDB and add connection string to index.js file.
    Import dotenv to use a env variable in index.js
 6. Create Users Model: api/models/user.model.js
-7. Create API route in 3 files: index.js, api/routes/user.route.js and api/controllers/user. controller.js
+7. Create test API route in 3 files: index.js, api/routes/user.route.js and api/controllers/user.controller.js
+8. Create API route for sign up: index.js, api/routes/auth.route.js and api/controllers/auth.controller.js. Hash password en handle errors. Test CRUD functions in Postman.
 
 Dependencies:
 
@@ -29,3 +30,6 @@ Dependencies:
    nodemon: npm i nodemon
 5. mongoDB: npm i mongoose
    dotenv: npm i dotenv
+6. ***
+7. ***
+8. bcrypt: npm i bcryptjs
