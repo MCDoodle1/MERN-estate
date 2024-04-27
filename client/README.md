@@ -18,6 +18,7 @@ Instructions:
 6. Create Users Model: api/models/user.model.js
 7. Create test API route in 3 files: index.js, api/routes/user.route.js and api/controllers/user.controller.js
 8. Create API route for sign up: index.js, api/routes/auth.route.js and api/controllers/auth.controller.js. Hash password en handle errors. Test CRUD functions in Postman.
+9. Add Middleware in index.js and a function to handle errors in api/utils/error.js and auth.controller.js
 
 Dependencies:
 
