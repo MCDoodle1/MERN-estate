@@ -19,21 +19,22 @@ Instructions:
 7. Create test API route in 3 files: index.js, api/routes/user.route.js and api/controllers/user.controller.js
 8. Create API route for sign up: index.js, api/routes/auth.route.js and api/controllers/auth.controller.js. Hash password en handle errors. Test CRUD functions in Postman.
 9. Add Middleware in index.js and a function to handle errors in api/utils/error.js and auth.controller.js
-10. Complete sign in page UI
+10. Complete sign up page UI
+11. Complete sign up page functionality: add onChange and onSubmit functions, loading and error messages to SignUp.js, add proxy server to vite.config.js
+    Dependencies:
 
-Dependencies:
-
-1. Vite :
-   Tailwind :
-2. React Router: npm i react-router-dom
-3. React Icons: npm i react-icons
-4. package.json: npm init -y
-   express: npm i express
-   nodemon: npm i nodemon
-5. mongoDB: npm i mongoose
-   dotenv: npm i dotenv
-6. ***
-7. ***
-8. bcrypt: npm i bcryptjs
-9. ***
-10. ***
+12. Vite :
+    Tailwind :
+13. React Router: npm i react-router-dom
+14. React Icons: npm i react-icons
+15. package.json: npm init -y
+    express: npm i express
+    nodemon: npm i nodemon
+16. mongoDB: npm i mongoose
+    dotenv: npm i dotenv
+17. ***
+18. ***
+19. bcrypt: npm i bcryptjs
+20. ***
+21. ***
+22. ***
