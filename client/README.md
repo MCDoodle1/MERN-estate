@@ -21,20 +21,23 @@ Instructions:
 9. Add Middleware in index.js and a function to handle errors in api/utils/error.js and auth.controller.js
 10. Complete sign up page UI
 11. Complete sign up page functionality: add onChange and onSubmit functions, loading and error messages to SignUp.js, add proxy server to vite.config.js
-    Dependencies:
+12. Create API route for sign in: auth.controler.js, auth.route.js, add token creation
 
-12. Vite :
-    Tailwind :
-13. React Router: npm i react-router-dom
-14. React Icons: npm i react-icons
-15. package.json: npm init -y
-    express: npm i express
-    nodemon: npm i nodemon
-16. mongoDB: npm i mongoose
-    dotenv: npm i dotenv
-17. ***
-18. ***
-19. bcrypt: npm i bcryptjs
-20. ***
-21. ***
-22. ***
+Dependencies:
+
+1. Vite :
+   Tailwind :
+2. React Router: npm i react-router-dom
+3. React Icons: npm i react-icons
+4. package.json: npm init -y
+   express: npm i express
+   nodemon: npm i nodemon
+5. mongoDB: npm i mongoose
+   dotenv: npm i dotenv
+6. ***
+7. ***
+8. bcrypt: npm i bcryptjs
+9. ***
+10. ***
+11. ***
+12. JWT: npm i jsonwebtoken
