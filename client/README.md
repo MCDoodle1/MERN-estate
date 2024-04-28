@@ -23,6 +23,7 @@ Instructions:
 11. Complete sign up page functionality: add onChange and onSubmit functions, loading and error messages to SignUp.js, add proxy server to vite.config.js
 12. Create API route for sign in: auth.controler.js, auth.route.js, add token creation
 13. Complete sign in page functionality: add onChange and onSubmit functions, loading and error messages to SignUp.js, add proxy server to vite.config.js
+14. Add Redux Toolkit: add Provider tag to main.js, create store.js, create userSlice.js
 
 Dependencies:
 
@@ -42,3 +43,5 @@ Dependencies:
 10. ***
 11. ***
 12. JWT: npm i jsonwebtoken
+13. ***
+14. Redux Toolkit: npm i @reduxjs/toolkit react-redux

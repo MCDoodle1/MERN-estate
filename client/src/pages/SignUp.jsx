@@ -4,7 +4,7 @@ import { useState } from "react";
 const SignUp = () => {
   const [formData, setFormData] = useState({});
   const [error, setError] = useState(null);
-  const [loading, setLoading] = useState(null);
+  const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
   const handleChange = (e) => {
