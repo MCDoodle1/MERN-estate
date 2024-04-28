@@ -22,6 +22,7 @@ Instructions:
 10. Complete sign up page UI
 11. Complete sign up page functionality: add onChange and onSubmit functions, loading and error messages to SignUp.js, add proxy server to vite.config.js
 12. Create API route for sign in: auth.controler.js, auth.route.js, add token creation
+13. Complete sign in page functionality: add onChange and onSubmit functions, loading and error messages to SignUp.js, add proxy server to vite.config.js
 
 Dependencies:
 
