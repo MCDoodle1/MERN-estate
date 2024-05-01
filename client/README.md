@@ -25,6 +25,9 @@ Instructions:
 13. Complete sign in page functionality: add onChange and onSubmit functions, loading and error messages to SignUp.js, add proxy server to vite.config.js
 14. Add Redux Toolkit: add Provider tag to main.js, create store.js, create userSlice.js
 15. Add Redux Persist to add data to localstorage: store.js and main.jsx
+16. Add Google OAuth functionality
+17. Update header (Header.jsx) and make profile page private (PrivateRoute.jsx & App.jsx)
+18. Complete profile page UI
 
 Dependencies:
 
@@ -47,3 +50,6 @@ Dependencies:
 13. ***
 14. Redux Toolkit: npm i @reduxjs/toolkit react-redux
 15. Redux Persist: npm i redux-persist
+16. Firebase: npm install firebase (https://console.firebase.google.com)
+17. ***
+18. ***
