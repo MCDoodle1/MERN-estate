@@ -28,6 +28,8 @@ Instructions:
 16. Add Google OAuth functionality
 17. Update header (Header.jsx) and make profile page private (PrivateRoute.jsx & App.jsx)
 18. Complete profile page UI
+19. Complete image upload functionality
+20. Create update user API route
 
 Dependencies:
 
@@ -53,3 +55,5 @@ Dependencies:
 16. Firebase: npm install firebase (https://console.firebase.google.com)
 17. ***
 18. ***
+19. ***
+20. Cookie-Parser: npm i cookie-parser
