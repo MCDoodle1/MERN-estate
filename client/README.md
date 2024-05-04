@@ -30,6 +30,8 @@ Instructions:
 18. Complete profile page UI
 19. Complete image upload functionality
 20. Create update user API route
+21. Complete upate user functionality
+22. Add delete user functionality
 
 Dependencies:
 
@@ -57,3 +59,4 @@ Dependencies:
 18. ***
 19. ***
 20. Cookie-Parser: npm i cookie-parser
+21. ***
