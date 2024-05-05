@@ -32,6 +32,7 @@ Instructions:
 20. Create update user API route
 21. Complete upate user functionality
 22. Add delete user functionality
+23. Add sign out user functionality
 
 Dependencies:
 
