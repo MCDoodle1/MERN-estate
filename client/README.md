@@ -33,6 +33,7 @@ Instructions:
 21. Complete upate user functionality
 22. Add delete user functionality
 23. Add sign out user functionality
+24. Add create listing API route
 
 Dependencies:
 
@@ -61,3 +62,5 @@ Dependencies:
 19. ***
 20. Cookie-Parser: npm i cookie-parser
 21. ***
+22. ***
+23. ***
