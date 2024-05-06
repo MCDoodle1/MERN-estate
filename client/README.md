@@ -34,6 +34,7 @@ Instructions:
 22. Add delete user functionality
 23. Add sign out user functionality
 24. Add create listing API route
+25. Complete create listing page UI
 
 Dependencies:
 
@@ -64,3 +65,5 @@ Dependencies:
 21. ***
 22. ***
 23. ***
+24. ***
+25. ***
