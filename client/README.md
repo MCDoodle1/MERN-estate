@@ -36,6 +36,7 @@ Instructions:
 24. Add create listing API route
 25. Complete create listing page UI
 26. Complete upload listing images functionality
+27. Complete create listing page functionality
 
 Dependencies:
 
@@ -68,3 +69,5 @@ Dependencies:
 23. ***
 24. ***
 25. ***
+26. ***
+27. ***
