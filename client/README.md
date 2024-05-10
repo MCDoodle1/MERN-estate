@@ -37,6 +37,7 @@ Instructions:
 25. Complete create listing page UI
 26. Complete upload listing images functionality
 27. Complete create listing page functionality
+28. Complete show user listings functionality
 
 Dependencies:
 
@@ -71,3 +72,4 @@ Dependencies:
 25. ***
 26. ***
 27. ***
+28. ***
