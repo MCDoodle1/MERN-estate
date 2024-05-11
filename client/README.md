@@ -39,6 +39,7 @@ Instructions:
 27. Complete create listing page functionality
 28. Complete show user listings functionality
 29. Complete delete user listing functionality
+30. Create update listing API route (listing.controller.js & listing.route.js)
 
 Dependencies:
 
@@ -75,3 +76,4 @@ Dependencies:
 27. ***
 28. ***
 29. ***
+30. ***
