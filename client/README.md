@@ -30,7 +30,7 @@ Instructions:
 18. Complete profile page UI
 19. Complete image upload functionality
 20. Create update user API route
-21. Complete upate user functionality
+21. Complete update user functionality
 22. Add delete user functionality
 23. Add sign out user functionality
 24. Add create listing API route
@@ -38,6 +38,7 @@ Instructions:
 26. Complete upload listing images functionality
 27. Complete create listing page functionality
 28. Complete show user listings functionality
+29. Complete delete user listing functionality
 
 Dependencies:
 
@@ -73,3 +74,4 @@ Dependencies:
 26. ***
 27. ***
 28. ***
+29. ***
