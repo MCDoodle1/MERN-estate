@@ -40,6 +40,7 @@ Instructions:
 28. Complete show user listings functionality
 29. Complete delete user listing functionality
 30. Create update listing API route (listing.controller.js & listing.route.js)
+31. Complete update listing functionality on client side
 
 Dependencies:
 
