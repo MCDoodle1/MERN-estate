@@ -27,20 +27,21 @@ Instructions:
 15. Add Redux Persist to add data to localstorage: store.js and main.jsx
 16. Add Google OAuth functionality
 17. Update header (Header.jsx) and make profile page private (PrivateRoute.jsx & App.jsx)
-18. Complete profile page UI
-19. Complete image upload functionality
-20. Create update user API route
-21. Complete update user functionality
-22. Add delete user functionality
-23. Add sign out user functionality
-24. Add create listing API route
-25. Complete create listing page UI
-26. Complete upload listing images functionality
-27. Complete create listing page functionality
-28. Complete show user listings functionality
-29. Complete delete user listing functionality
+18. Complete profile page UI (Profile.jsx)
+19. Complete image upload functionality (Profile.jsx)
+20. Create update user API route (user.controller.js, index.js, user.route.js, verifyUser.js)
+21. Complete update user functionality (verifyUser.js, Profile.jsx, userSlice.js)
+22. Add delete user functionality (auth.controller.js, user.controller.js, user.route.js, Profile.jsx, userSlice.js)
+23. Add sign out user functionality (auth.controller.js, auth.route.js, Profile.jsx, userSlice.js)
+24. Add create listing API route (listing.controller.js, index.js, listing.model.js, listing.route.js)
+25. Complete create listing page UI (App.jsx, CreateListing.jsx)
+26. Complete upload listing images functionality (CreateListing.jsx)
+27. Complete create listing page functionality (CreateListing.jsx)
+28. Complete show user listings functionality (user.controller.js, user.route.js, Profile.jsx)
+29. Complete delete user listing functionality (listing.controller.js & listing.route.js, Profile.jsx)
 30. Create update listing API route (listing.controller.js & listing.route.js)
-31. Complete update listing functionality on client side
+31. Complete update listing functionality on client side (app.js, Profile.jsx, UpdateLising.jsx, listing.controller.js & listing.route.js)
+32. Add image slider to the listing page
 
 Dependencies:
 
@@ -78,3 +79,5 @@ Dependencies:
 28. ***
 29. ***
 30. ***
+31. ***
+32. Swiper: npm i swiper
