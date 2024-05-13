@@ -43,7 +43,7 @@ Instructions:
 31. Complete update listing functionality on client side (app.js, Profile.jsx, UpdateLising.jsx, listing.controller.js & listing.route.js)
 32. Add image slider to the listing page (App.jsx & Listing.jsx)
 33. Complete listing page (Listing.jsx)
-34. Create get user listings API route
+34. Add contact landlord functionality to listing page
 
 Dependencies:
 
