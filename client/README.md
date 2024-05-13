@@ -41,7 +41,9 @@ Instructions:
 29. Complete delete user listing functionality (listing.controller.js & listing.route.js, Profile.jsx)
 30. Create update listing API route (listing.controller.js & listing.route.js)
 31. Complete update listing functionality on client side (app.js, Profile.jsx, UpdateLising.jsx, listing.controller.js & listing.route.js)
-32. Add image slider to the listing page
+32. Add image slider to the listing page (App.jsx & Listing.jsx)
+33. Complete listing page (Listing.jsx)
+34. Create get user listings API route
 
 Dependencies:
 
@@ -81,3 +83,5 @@ Dependencies:
 30. ***
 31. ***
 32. Swiper: npm i swiper
+33. ***
+34. ***
