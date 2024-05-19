@@ -47,6 +47,7 @@ Instructions:
 35. Create Search API Route (listing.route.js & listing.controller.js)
 36. Complete header search form functionality (Header.jsx)
 37. Complete search page UI (Search.jsx & App.jsx)
+38. Add onChange and onSubmit functionality to Search page (Search.jsx)
 
 Dependencies:
 
@@ -89,3 +90,6 @@ Dependencies:
 33. ***
 34. ***
 35. ***
+36. ***
+37. ***
+38. ***
