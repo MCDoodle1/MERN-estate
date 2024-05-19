@@ -44,7 +44,9 @@ Instructions:
 32. Add image slider to the listing page (App.jsx & Listing.jsx)
 33. Complete listing page (Listing.jsx)
 34. Add contact landlord functionality to listing page
-35. Create Search API Route
+35. Create Search API Route (listing.route.js & listing.controller.js)
+36. Complete header search form functionality (Header.jsx)
+37. Complete search page UI (Search.jsx & App.jsx)
 
 Dependencies:
 
