@@ -217,9 +217,12 @@ const Profile = () => {
         >
           {loading ? "Loading..." : "Update"}
         </button>
-        <button className="bg-green-700 text-white rounded-lg p-3 uppercase hover:opacity-95 disabled:opacity-80">
+        <Link
+          to={"/create-listing"}
+          className="bg-green-700 text-white rounded-lg p-3 uppercase hover:opacity-95 disabled:opacity-80 text-center"
+        >
           Create Listing
-        </button>
+        </Link>
       </form>
       <div className="flex justify-between mt-5">
         <span
@@ -233,7 +236,7 @@ const Profile = () => {
         </span>
       </div>
       <p className="text-red-700 mt-5">{error ? error : ""}</p>
-      <p className="text-green-700 mt-5">
+      <p className="text-green-700 mt-5 text-center text-sm">
         {updateSuccess ? "User profile updated successfully" : ""}
       </p>
       <button onClick={handleShowListings} className="text-green-700 w-full">

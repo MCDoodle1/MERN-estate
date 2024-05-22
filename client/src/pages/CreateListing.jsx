@@ -32,8 +32,6 @@ const CreateListing = () => {
   const [error, setError] = useState(false);
   const [loading, setLoading] = useState(false);
 
-  console.log(formData);
-
   // Function that loops thru multiple images (using the storeImage function)
   // and stores them in an array
   const handleImageSubmit = () => {
