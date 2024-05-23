@@ -50,6 +50,7 @@ Instructions:
 38. Add onChange and onSubmit functionality to Search page (Search.jsx)
 39. Create listing item component and show listings
 40. Add show more listings functionality
+41. Complete Home page
 
 Dependencies:
 
@@ -97,3 +98,4 @@ Dependencies:
 38. ***
 39. Line-clamp: npm install -D @tailwindcss/line-clamp
 40. ***
+41. ***
