@@ -51,6 +51,7 @@ Instructions:
 39. Create listing item component and show listings
 40. Add show more listings functionality
 41. Complete Home page
+42. Complete About page
 
 Dependencies:
 
@@ -99,3 +100,4 @@ Dependencies:
 39. Line-clamp: npm install -D @tailwindcss/line-clamp
 40. ***
 41. ***
+42. ***
