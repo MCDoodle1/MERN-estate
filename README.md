@@ -1,15 +1,39 @@
-# React + Vite
+# MERN Estate - Build a Modern Real Estate Marketplace with react MERN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the result of Sahand's MERN Stack tutorial on YouTube.
 
-Currently, two official plugins are available:
+The address of the tutorial is https://www.youtube.com/watch?v=VAaUy_Moivw
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of contents
 
-Website : https://mern-estate-qak4.onrender.com
+- [Overview](#overview)
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
-Instructions:
+## Overview
+
+In this course the user masters MERN stack - MongoDB, Express.js, React, and Node.js by creating a modern real estate market place.
+
+### The challenge
+
+- Create a Signup page where the user can create an account
+- Create a Signin page with regular signin and sign in via Google Oauth
+- Create a page to list properties
+- Create functionality to contact property owners via email
+- Create CRUD functionality for signin and listing pages
+- Create a user and listing database in MongoDB
+- Create search functionality to search listings
+- Create a Home page
+- Create an About page
+
+### Links
+
+- Solution URL: [GitHub Page](https://github.com/MCDoodle1/MERN-estate)
+- Live Site URL: [MERN Estate Live Site](https://mern-estate-qak4.onrender.com)
+
+## My process
 
 1. Create React App using Vite and install Tailwind - Delete unnecessary files
 2. Create pages, install react-router-dom and add routes to pages in App.js
@@ -57,49 +81,35 @@ Instructions:
 
 Dependencies:
 
-1. Vite :
-   Tailwind :
-2. React Router: npm i react-router-dom
-3. React Icons: npm i react-icons
-4. package.json: npm init -y
-   express: npm i express
-   nodemon: npm i nodemon
-5. mongoDB: npm i mongoose
-   dotenv: npm i dotenv
-6. ***
-7. ***
-8. bcrypt: npm i bcryptjs
-9. ***
-10. ***
-11. ***
-12. JWT: npm i jsonwebtoken
-13. ***
-14. Redux Toolkit: npm i @reduxjs/toolkit react-redux
-15. Redux Persist: npm i redux-persist
-16. Firebase: npm install firebase (https://console.firebase.google.com)
-17. ***
-18. ***
-19. ***
-20. Cookie-Parser: npm i cookie-parser
-21. ***
-22. ***
-23. ***
-24. ***
-25. ***
-26. ***
-27. ***
-28. ***
-29. ***
-30. ***
-31. ***
-32. Swiper: npm i swiper
-33. ***
-34. ***
-35. ***
-36. ***
-37. ***
-38. ***
-39. Line-clamp: npm install -D @tailwindcss/line-clamp
-40. ***
-41. ***
-42. ***
+-1. Vite : npm create vite@latest client
+Tailwind : npm install -D tailwindcss postcss autoprefixer / npx tailwindcss init -p
+-2. React Router: npm i react-router-dom
+-3. React Icons: npm i react-icons
+-4. package.json: npm init -y
+express: npm i express
+nodemon: npm i nodemon
+-5. mongoDB: npm i mongoose
+dotenv: npm i dotenv
+-8. bcrypt: npm i bcryptjs
+-12. JWT: npm i jsonwebtoken
+-14. Redux Toolkit: npm i @reduxjs/toolkit react-redux
+-15. Redux Persist: npm i redux-persist
+-16. Firebase: npm install firebase (https://console.firebase.google.com)
+-20. Cookie-Parser: npm i cookie-parser
+-32. Swiper: npm i swiper
+-39. Line-clamp: npm install -D @tailwindcss/line-clamp
+
+### Built with
+
+- MongoDB
+- Express
+- React
+- Node.js
+- Redux
+- JWT
+- Firebase
+- Google OAauth
+
+## Author
+
+- Website - [Marco Clarijs](https://github.com/MCDoodle1)
